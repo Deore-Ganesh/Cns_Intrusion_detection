@@ -1,0 +1,11 @@
+dest_port
+bytes_out
+total_entropy
+src_port
+num_pkts_in
+duration
+avg_ipt
+entropy
+bytes_in
+num_pkts_out
+proto
